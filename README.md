@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Software Engineer | MCA @ NIT Kurukshetra | Java & Web Dev</h3>
 
 <img align="right" alt="girl typing" width="380"
-src="https://raw.githubusercontent.com/guptamannsi27/guptamannsi27/main/girl-typing.png" />
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guptamannsi27&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=guptamansi27&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
@@ -23,18 +23,8 @@ To grow as a software engineer by building innovative solutions and learning thr
 
 ---
 
-### 🏆 Certifications
-- 🐍 Python – OneRoadmap  
-- 🤖 AI Fundamentals – IBM  
-- 💻 ADIT Certified  
-- 🌍 Rotaract Club Award  
-
----
-
 ### 💻 Skills
-**Languages:** C, C++, Java, HTML, CSS, JavaScript  
-**Core:** DSA, MySQL, OS  
-**Creative:** Canva, Photography, Video Editing  
+C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 
 ---
 
@@ -46,23 +36,26 @@ To grow as a software engineer by building innovative solutions and learning thr
 
 ---
 
-### 🌐 Connect
-<a href="https://instagram.com/_mansi_gupta4">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+### 🌐 Connect With Me
+<a href="https://instagram.com/_mansi_gupta4" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+</a>
+<a href="https://www.linkedin.com/in/mansi-gupta-803379253" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptamannsi27&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guptamansi27&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptamannsi27&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptamansi27&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptamannsi27&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptamansi27&layout=compact&theme=tokyonight"/>
 </p>
 
 <h3 align="center">💖 Thanks for visiting! Let’s build something awesome 💖</h3>
