@@ -1,6 +1,9 @@
 <h1 align="center">🌟 Hi, I'm Mansi Gupta 🌟</h1>
 <h3 align="center">Aspiring Software Engineer | MCA @ NIT Kurukshetra </h3>
 
+<img align="right" alt="coding" width="380"
+src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guptamansi27&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
@@ -9,7 +12,7 @@
 
 ### 🌸 About Me
 - 🎓 MCA at **NIT Kurukshetra**
-- 💻 Passionate about coding & building projects
+- 💻 Love coding & building projects
 - 🌱 Learning **Java, DSA & Web Dev**
 - 📫 **mansigupta5512@gmail.com**
 
@@ -45,5 +48,14 @@ C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 </a>
 
 ---
+
+### 📊 Most Used Languages
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=guptamansi27&layout=compact&theme=tokyonight"
+       alt="guptamansi27" />
+</p>
+
+<br/><br/><br/>
 
 <h3 align="center">💖 Thanks for visiting! Let’s build something awesome 💖</h3>
