@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mansigupta@gmail.com**
 
-- ⚡ Fun fact **I am currently pursuing MCA from NIT Kurukshetra. I am a keen learner and passionate about coding.**
+- ⚡ Current Status **I am currently pursuing MCA from NIT Kurukshetra. I am a keen learner and passionate about coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
