@@ -1,11 +1,11 @@
 <h1 align="center">🌟 Hi, I'm Mansi Gupta 🌟</h1>
 <h3 align="center">Aspiring Software Engineer | MCA @ NIT Kurukshetra | Java & Web Dev</h3>
 
-<img align="right" alt="girl coding" width="380" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="girl typing" width="380"
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAFECAYAAABbFv0XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAgAElEQVR4nO3deZRcZf3/8ddk0mQyJbIkM0kS9gk0CqZkQ0gUoFJpQkCwEoGJqg2QqWq1C2oZ0hJpUQyZpQkQwC0gQmJQqkQ2lKqk0h9v9z9z3vfe+7n3nvvOec8z3nPPef8zjnPPef8zjmP3+0hVb0pQAAAABJRU5ErkJggg==" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Thanks_for_visiting!-ff69b4?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=guptamannsi27&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
