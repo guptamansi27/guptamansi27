@@ -34,7 +34,7 @@ C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 🔁 Sorting Visualizer  
 ❌⭕ Tic Tac Toe  
 🚢 SmartConvoy (Python Ship Scheduler)  
-🏠 Hostel & Mess Management System
+🏠 Hostel Management System
 
 ---
 
@@ -51,11 +51,11 @@ C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 
 ---
 
-### 📊 Most Used Languages
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=guptamansi27&layout=compact&theme=tokyonight"
-       alt="guptamansi27" />
+### 📊 Most Used Language
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamansi27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+       alt="Most Used Languages" />
 </p>
 
 <br/><br/><br/>
