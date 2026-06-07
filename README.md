@@ -53,9 +53,7 @@ C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 
 ### 📊 Most Used Language
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamansi27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-       alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamansi27&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
 </p>
 
 <br/><br/><br/>
