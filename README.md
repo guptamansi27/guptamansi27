@@ -29,10 +29,12 @@ C, C++, Java, HTML, CSS, JavaScript | DSA | MySQL | OS
 ---
 
 ### 📂 Projects
+🌐 Global Cybersecurity Threat Analysis & Visualization
 🎮 Guess The Number & Rock Paper Scissors  
 🔁 Sorting Visualizer  
 ❌⭕ Tic Tac Toe  
 🚢 SmartConvoy (Python Ship Scheduler)  
+🏠 Hostel & Mess Management System
 
 ---
 
